@@ -1,0 +1,16 @@
+{
+  "name": "create-react-model",
+  "version": "1.0.0",
+  "description": "Pour installer notre react-model facilement",
+  "main": "./lib/index.js",
+  "author": "hyperspace-react",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  },
+  "scripts": {
+    "test": "./bin/react-model.js"
+  },
+  "bin": {
+    "create-react-model": "./bin/react-model.js"
+  }
+}
