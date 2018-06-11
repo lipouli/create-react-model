@@ -3,7 +3,7 @@
 ## installation :
 - cloner ce dépot : 
 [git@github.com:lipouli/create-react-model.git](git@github.com:lipouli/create-react-model.git)
-- configurer le fichier [./lib/config.js](./lib/config.js)
+- configurer le fichier (il faut créer le fichier)[./lib/config.js](./lib/config.js)
     - entrer le chemin vers votre dossier react-model
 - depuis la racine de notre dossier fraichement créé (create-react-model) taper les lignes suivantes (dans terminal):
 ```

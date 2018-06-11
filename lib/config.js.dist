@@ -1,0 +1,4 @@
+# a mettre dans le fichier config.js :
+module.exports = {
+    'modelPath': 'chemin_vers_react-model',
+};
